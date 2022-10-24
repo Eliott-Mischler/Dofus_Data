@@ -1,0 +1,98 @@
+Rune Age
+Rune Cha
+Rune Cri
+Rune Do
+Rune Do Air
+Rune Do Cri
+Rune Do Eau
+Rune Do Feu
+Rune Do Neutre
+Rune Do Per Ar
+Rune Do Per Di
+Rune Do Per Mé
+Rune Do Per So
+Rune Do Pi
+Rune Do Pou
+Rune Do Ren
+Rune Do Terre
+Rune Fo
+Rune Fui
+Rune Ga Pa
+Rune Ga Pme
+Rune Ine
+Rune Ini
+Rune Invo
+Rune Pa Age
+Rune Pa Cha
+Rune Pa Do Air
+Rune Pa Do Cri
+Rune Pa Do Eau
+Rune Pa Do Feu
+Rune Pa Do Neutre
+Rune Pa Do Pi
+Rune Pa Do Pou
+Rune Pa Do Terre
+Rune Pa Fo
+Rune Pa Fui
+Rune Pa Ine
+Rune Pa Ini
+Rune Pa Per Pi
+Rune Pa Pod
+Rune Pa Prospe
+Rune Pa Pui
+Rune Pa Ré Air
+Rune Pa Ré Cri
+Rune Pa Ré Eau
+Rune Pa Ré Feu
+Rune Pa Ré Neutre
+Rune Pa Ré Pa
+Rune Pa Ré Pme
+Rune Pa Ré Pou
+Rune Pa Ré Terre
+Rune Pa Ret Pa
+Rune Pa Ret Pme
+Rune Pa Sa
+Rune Pa So
+Rune Pa Tac
+Rune Pa Vi
+Rune Per Pi
+Rune Po
+Rune Pod
+Rune Prospe
+Rune Pui
+Rune Ra Age
+Rune Ra Cha
+Rune Ra Fo
+Rune Ra Ine
+Rune Ra Ini
+Rune Ra Per Pi
+Rune Ra Pod
+Rune Ra Pui
+Rune Ra Sa
+Rune Ra Vi
+Rune Ré Air
+Rune Ré Cri
+Rune Re Eau
+Rune Ré Feu
+Rune Re Neutre
+Rune Ré Pa
+Rune Ré Per Air
+Rune Ré Per Di
+Rune Ré Per Eau
+Rune Ré Per Feu
+Rune Ré Per Mé
+Rune Ré Per Neutre
+Rune Ré Per Terre
+Rune Ré Pme
+Rune Re Per Terre
+Rune Ré Pme
+Rune Re Pou
+Rune Ré Terre
+Rune Ret Pa
+Rune Ret Pme
+Rune Sa
+Rune So
+Rune Tac
+Rune Vi
+Rune de Signature
+Rune de chasse
