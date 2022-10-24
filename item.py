@@ -6,7 +6,8 @@ class Item(Base):
     __tablename__  = 'item_prices'
 
     id = Column(Integer, primary_key = True)
-    name = Column(String)
+    item_name_id = Column(String, ForeignKey('item_names.id'))
+    item_name = relationship("ItemName")
     price = Column(Integer)
     date_time_id = Column(Integer, ForeignKey('date_times.id'))
     date_time = relationship("Datetime")
