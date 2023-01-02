@@ -1,5 +1,5 @@
-with open('out.txt', 'r', encoding='utf-8') as clean_incomplete:
-    with open('out2.txt', 'r', encoding='utf-8') as unclean_complete:
+with open('resources.txt', 'r', encoding='utf-8') as clean_incomplete:
+    with open('names_2_1_2023__15_48_40.txt', 'r', encoding='utf-8') as unclean_complete:
         ci = clean_incomplete.read()
         uc = unclean_complete.read()
         lines_ci = [line for i, line in enumerate(ci.splitlines()) if not i%2]

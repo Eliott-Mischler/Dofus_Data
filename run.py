@@ -5,7 +5,6 @@ from base import Session, Base, engine
 
 Base.metadata.create_all(engine)
 
-
 def log_prices(name_list, price_list, type):
     session = Session()
     now = datetime.now()
