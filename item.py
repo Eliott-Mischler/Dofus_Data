@@ -1,7 +1,7 @@
 from sqlalchemy import Column, String, Integer, ForeignKey
 from sqlalchemy.orm import relationship
 from base import Base
-
+from binding_dict import name_id_dict
 class Item(Base):
     __tablename__  = 'item_prices'
 
